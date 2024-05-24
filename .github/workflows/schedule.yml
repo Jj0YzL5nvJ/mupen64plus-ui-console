@@ -1,4 +1,4 @@
-name: UI Console
+name: UI Console - Scheduled
 
 on:
   schedule:
